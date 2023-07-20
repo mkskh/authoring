@@ -1,5 +1,5 @@
 # Github Flavoured Markdown
-- [x] External Link
-- [x] Internal Link
-- [x] Images
-- [x] Emojis
+- [ ] External Link
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
