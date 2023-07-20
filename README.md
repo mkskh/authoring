@@ -2,12 +2,12 @@
 
 ## Checkboxes with the following tasks:
 
-- [ ] External Link
+- [ ] [External Link](## External Link)
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
 
-## Tables
+## Table
 
 | Name    | Class |
 | -------- | ------- |
