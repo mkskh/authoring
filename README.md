@@ -2,7 +2,7 @@
 
 ## Checkboxes with the following tasks:
 
-- [ ] [External Link](## External Link)
+- [ ] [External Link](# External Link)
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
@@ -15,7 +15,7 @@
 | Frank | 13 A     |
 
 
-## External Link
+# External Link
 https://help.github.com/en
 
 ## Images
