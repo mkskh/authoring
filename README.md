@@ -6,22 +6,31 @@
 - [x] [Internal Link](#Internal-Link)
 - [x] [Images](#Images)
 - [x] [Emojis](#Emojis)
+- [x] [Table](#Table)
+
+
  
+
+## External Link
+
+https://help.github.com/en
+
+## Internal Link
+
+https://github.com/mkskh/authoring/tree/main/pictures
+
+## Images
+
+![Image](https://github.com/mkskh/authoring/blob/main/pictures/tree-736885_1280.jpg?raw=true)
+
+## Emojis
+
+😃 😄
+
 ## Table
 
 | Name    | Class |
 | -------- | ------- |
 | Mike  | 12 B    |
 | Frank | 13 A     |
-
-
-## External Link
-https://help.github.com/en
-
-## Images
-https://github.com/mkskh/authoring/tree/main/pictures
-![Image](https://github.com/mkskh/authoring/blob/main/pictures/tree-736885_1280.jpg?raw=true)
-
-## Emojis
-😃 😄
 
