@@ -2,10 +2,10 @@
 
 ## Checkboxes with the following tasks:
 
-- [ ] [External Link](#External-Link)
-- [ ] [Internal Link](#Internal-Link)
-- [ ] [Images](#Images)
-- [ ] [Emojis](#Emojis)
+- [x] [External Link](#External-Link)
+- [x] [Internal Link](#Internal-Link)
+- [x] [Images](#Images)
+- [x] [Emojis](#Emojis)
  
 ## Table
 
