@@ -1,1 +1,1 @@
-# authoring
+# Github Flavoured Markdown
